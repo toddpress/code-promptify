@@ -1,0 +1,9 @@
+argparse
+commitizen
+setuptools
+wheel
+questionary
+rich
+streamlit
+streamlit-mermaid
+twine

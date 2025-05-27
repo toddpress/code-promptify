@@ -1,0 +1,11 @@
+# .promptignore
+node_modules/
+dist/
+build/
+.venv/
+.env
+*.lock
+*.log
+*.test.js
+*.spec.ts
+docs/

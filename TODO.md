@@ -1,0 +1,2 @@
+- [ ] - gui mode not working
+  - [ ] - `streamlit run /Users/toddpressley/dev/ai-projects/code-promptify/codepromptify/gui.py` seems to do something but not what I expect
