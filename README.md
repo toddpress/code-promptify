@@ -4,7 +4,6 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![GitHub release](https://img.shields.io/github/v/release/toddpress/codepromptify)](https://github.com/toddpress/codepromptify/releases)
 [![CI](https://github.com/toddpress/codepromptify/actions/workflows/release.yml/badge.svg)](https://github.com/toddpress/codepromptify/actions/workflows/release.yml)
-[![Code Quality](https://img.shields.io/lgtm/grade/python/github/toddpress/codepromptify)](https://lgtm.com/projects/g/toddpress/codepromptify/context:python)
 
 > Generate architecture-aware README.md files from your codebase using local LLMs like Ollama.
 
