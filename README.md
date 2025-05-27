@@ -12,11 +12,14 @@
 
 ## Features
 
+- [WIP] - Detects tech stack and architecture
 - Recursively scans your codebase (with `.promptignore` support)
-- Detects tech stack and architecture
 - Generates Markdown README with Mermaid diagrams
 - Uses **Ollama** to refine summaries and stack descriptions
-- Works via CLI or beautiful Streamlit GUI
+- Run via
+  - _sweet_ CLI or
+  - beautiful Streamlit GUI
+- (coming soon) Generates promptable summaries of your codebase
 
 ---
 
