@@ -5,7 +5,7 @@
 [![GitHub release](https://img.shields.io/github/v/release/toddpress/codepromptify)](https://github.com/toddpress/codepromptify/releases)
 [![CI](https://github.com/toddpress/codepromptify/actions/workflows/release.yml/badge.svg)](https://github.com/toddpress/codepromptify/actions/workflows/release.yml)
 
-> Generate architecture-aware README.md files from your codebase using local LLMs like Ollama.
+> Generate architecture-aware README.md files from your codebase using local LLMs via e.g. Ollama.
 
 ---
 
